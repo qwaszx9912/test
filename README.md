@@ -22,7 +22,7 @@ Ordered
 빈 줄이 없으면 자동으로 앞의 문장 뒤에 붙습니다.(Space Bar를 두 번 이상 눌러 띄어쓰기를 하면..)
 위 문장에서 두 칸의 공백을 두어 강제 개행할 수 있습니다.
 
-![Github logo](/images/markdown_logo.jpg) 
+![Github logo](/images/123123.jpg) 
 Format: ![이미지 alt명](url 링크) 
 
 <a href="#"><img src="https://github.com/github/test/images/markdown_123123.jpg" width="400px" alt="sample image"></a> 
