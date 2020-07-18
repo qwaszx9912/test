@@ -25,5 +25,5 @@ Ordered
 ![Github logo](/images/123123.jpg) 
 Format: ![이미지 alt명](url 링크) 
 
-<a href="#"><img src="https://github.com/github/test/images/3.png" width="400px" alt="sample image"></a> 
+<a href="#"><img src="https://github.com/github/test/images/123123.jpg" width="400px" alt="sample image"></a> 
 Format: img 태그 사용 - 이미지경로는 상대경로 or 절대경로
